@@ -1,0 +1,89 @@
+.containerP{
+  width: 40%;
+  background-color:#a1ebe7;
+  margin: auto;
+  text-align: center;
+ 
+}
+.conatinerA{
+  margin: 10px;
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+text-align:right;
+  
+
+  background-color: #c2b490;
+}
+.container0{
+  max-width: 500px;
+   margin: auto;
+   display: flex;
+   justify-content:space-between;
+
+ }
+.container{
+   max-width: 500px;
+   margin:auto;
+ }
+
+#image{
+
+  max-width: 500px;
+  margin:auto;
+
+}
+
+.container4{
+  border: 50px;
+width: 23%;
+display:flex;
+flex-direction: column;
+margin: auto;
+text-align: justify;
+}
+.container4 {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  flex-direction:column;
+  border-color: #f023b6;
+}
+.container4 button {
+color: #2c0a22;
+background-color: #ebabd8;
+margin: 10px;
+padding: 10px;
+
+
+}
+.containerQ form{
+  width:20%;
+  display:flex;
+  flex-direction: column;
+  text-align: left;
+  color: #350527;
+  
+}
+.containerQ div{
+  width: 40%;
+  background-color:#a1ebe7;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  flex-direction:column;
+
+}
+#colorh{
+  display: contents;
+  content: initial;
+color: rgb(4, 0, 255);
+}
+#submit{
+  width: 40%;
+  background-color:#a1ebe7;
+  margin: auto;
+text-align: center;
+  
+}
